@@ -1,0 +1,26 @@
+.display{
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 210px;
+    margin-top: 25px;
+    border: 7px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blank-div{
+    width: 270px;
+    height: 200px;
+    background-color: #E3F2FD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.empty-text{
+    margin: 5px;
+    text-align: center;
+}
